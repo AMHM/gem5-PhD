@@ -1,2 +1,2 @@
 # gem5-PhD
-gem5-PhD
+This is the modified version of gem5 that is used during my PhD program. It is equiped with different stats regards to the challenges that should be considered when the memory technology of the cache decided to change. It also delivers the requirements to run approximate computing applications in gem5 and support accordings program levels APIs (i.e. add_approx(..) and remove_approx(..)) For more information on this version of gem5 feel free to contact with amirmonazzah@gmail.com
